@@ -1,0 +1,76 @@
+/*Обнуление*/
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.menu {
+	background-color: #18A9DF;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 1500px;
+	height: 120px;
+	padding: 48px 275px;
+	
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #18A9DF;
+	background-color: white;
+}
+
+.content {
+	background-color: #18A9DF;
+	margin: 0px auto;
+	width: 940px;
+	height: 24px;
+	font-size: 24px;
+	
+}
+
+.left {
+	margin-left: 90px;
+
+}
+
+.img {
+	margin-left: 290px;
+	margin-top: 50px;
+}
+
+.student {
+	margin: 0px auto;
+	margin-left: 790px;
+	margin-top: -250px;
+	width: 282px;
+}
+
+.table {
+	margin-left: 700px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+hr {
+	margin: 0px auto;
+	width: 1200px;
+	margin-top: 40px;
+    margin-left: 175px;
+}
+
+.problem {
+	width: 214px;
+	margin-left: 665px;
+}
+
+textarea {
+	width: 900px;
+	height: 200px;
+	margin: 0px auto;
+	margin-left: 310px;
+}
